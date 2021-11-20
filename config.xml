@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<settings>
-  <setting 
-    backupSrc = "C:\Users\Keicho\home\99_system\tools\backup\test\src" 
-    dstRoot = "C:\Users\Keicho\home\99_system\tools\backup\test\dst" 
-    logRoot = "C:\Users\Keicho\home\99_system\tools\backup\test\log"
-    ignorePath = "hoge_mushi,hoge\hoge_mushi"
-  />
-</settings>
